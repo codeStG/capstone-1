@@ -1,0 +1,92 @@
+[
+  {
+    "prod": "Big K.R.I.T. - K.R.I.T. Wuz Here",
+    "serial": "TEK371428468587",
+    "manufacturer": "Multi Alumni, LLC",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "6",
+    "imgURL": "https://bigkrit.com/wp-content/uploads/2020/06/krit-wuz-here-768x768.jpg"
+  },
+  {
+    "prod": "DJ Screw - June 27th",
+    "serial": "TEK173543925414",
+    "manufacturer": "Official SUC",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "8",
+    "imgURL": "https://cdn.albumoftheyear.org/album/114980-june-27th.jpg"
+  },
+  {
+    "prod": "EarthGang - Mirrorland",
+    "serial": "TEK964406929829",
+    "manufacturer": "Dreamville/Interscope",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "5",
+    "imgURL": "https://media.pitchfork.com/photos/5d76619f53e80c0008f437cc/1:1/w_600/earthgang_mirrorland.jpeg"
+  },
+  {
+    "prod": "J Cole - The Warm Up",
+    "serial": "TEK533959784661",
+    "manufacturer": "Dreamville/Roc Nation",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "3",
+    "imgURL": "https://hw-img.datpiff.com/md1c5882/J_Cole_The_Warm_Up-front-large.jpg"
+  },
+  {
+    "prod": "Big HAWK - HAWK",
+    "serial": "TEK342807908340",
+    "manufacturer": "Official SUC",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "9",
+    "imgURL": "https://i1.sndcdn.com/artworks-000097402018-ejarm3-t500x500.jpg"
+  },
+  {
+    "prod": "P$O Kwama - Gemini EP",
+    "serial": "TEK870997071982",
+    "manufacturer": "Players Only International",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "6",
+    "imgURL": "https://pbs.twimg.com/profile_images/1260981195480973315/-8ix0mEB.jpg"
+  },
+  {
+    "prod": "Cozz - Cozz & Effect",
+    "serial": "TEK884472062504",
+    "manufacturer": "Dreamville/Interscope",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "4",
+    "imgURL": "https://images.genius.com/452f9d44845aebfcfb689ecf1172083c.500x500x1.jpg"
+  },
+  {
+    "prod": "Bas - Last Winter",
+    "serial": "TEK43632056444",
+    "manufacturer": "Dreamville/Interscope",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "5",
+    "imgURL": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/19/52/2d/19522d15-cf0d-7ace-6df2-0192edd575ec/00602537781188.rgb.jpg/600x600bf.png"
+  },
+  {
+    "prod": "Saba - Bucket List Project",
+    "serial": "TEK882093178509",
+    "manufacturer": "Saba Pivot, LLC",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "10",
+    "imgURL": "https://media.pitchfork.com/photos/5929bfc6c0084474cd0c30b4/1:1/w_600/bac7063e.jpg"
+  },
+  {
+    "prod": "J Dilla - Donuts",
+    "serial": "TEK702750129655",
+    "manufacturer": "Stones Throw Records",
+    "category": "Rap/Hip-Hop",
+    "price": "19.99",
+    "quantity": "2",
+    "imgURL": "https://cdn.shopify.com/s/files/1/1385/4403/products/JDilla-Donuts-alt-1-1024x1024_1200x1200.jpg?v=1511590755"
+  }
+]
